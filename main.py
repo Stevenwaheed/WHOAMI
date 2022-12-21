@@ -1,6 +1,8 @@
 import streamlit as st
 import neatbio.sequtils as utils
 import io
+from io import StringIO
+import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib
 import numpy as np
