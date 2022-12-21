@@ -41,7 +41,6 @@ labelImg==1.8.6
 libclang==14.0.6
 libs==0.0.10
 lxml==4.9.1
-matlabruntimeforpython===R2016a
 matplotlib==3.6.0
 missingno==0.5.1
 numpy==1.23.3
