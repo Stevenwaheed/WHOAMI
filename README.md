@@ -1,7 +1,6 @@
 <h1 align="center" id="title">WHOAMI</h1>
 
-<p id="description">DNA sequencing classifiers and get the similarity between human chimpanzee and dog genes.
-
+<p id="description">DNA sequencing classifiers and get the similarity between human chimpanzee and dog genes. We've created a website using streamlit to make it easy for users inseracting with the data and machine learning models. The users can upload any FASTA file to see the similarity and class of the sequences.
 You will find the website link at the end of the README file.
 </p>
 
@@ -11,10 +10,10 @@ You will find the website link at the end of the README file.
 
 Here're some of the project's best features:
 
-*   Easy to use
-*   Train your own machine learning model
-*   Use a trained machine learning model to predict the sequence class
-*   See the similarity between the uploaded sequence and the sequences of human dog and chimpanzee
+*   Easy to use.
+*   Train your own machine learning model.
+*   Use a trained machine learning model to predict the sequence class.
+*   See the similarity between the uploaded sequence and the sequences of human dog and chimpanzee.
 
 <h2>🛠️ Installation Steps:</h2>
 
